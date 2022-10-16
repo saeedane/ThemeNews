@@ -1,0 +1,124 @@
+.pc-header-element.pc-login-register a:hover {
+	color: var(--penci_header_pb_login_register_hv_color);
+}
+.pc-builder-element.pc-main-menu .navigation ul.menu > li > a:before,
+.pc-builder-element.pc-main-menu .navigation .menu > ul > li > a:before {
+	background-color: var(--penci_header_pb_main_menu_penci_menu_line_hv_color);
+}
+.pc-builder-element.pc-second-menu .navigation ul.menu > li > a:before,
+.pc-builder-element.pc-second-menu .navigation .menu > ul > li > a:before {
+	background-color: var(--penci_header_pb_second_menu_penci_menu_line_hv_color);
+}
+.pc-builder-element.pc-third-menu .navigation ul.menu > li > a:before,
+.pc-builder-element.pc-third-menu .navigation .menu > ul > li > a:before {
+	background-color: var(--penci_header_pb_third_menu_penci_menu_line_hv_color);
+}
+.pc-builder-element.pc-main-menu .navigation .menu li > a:hover, .pc-builder-element.pc-main-menu .navigation .menu li.current-menu-item > a, .pc-builder-element.pc-main-menu .navigation .menu > li.current_page_item > a, .pc-builder-element.pc-main-menu .navigation .menu > li.current-menu-ancestor > a, .pc-builder-element.pc-main-menu .navigation .menu > li.current-menu-item > a {
+	color: var(--penci_header_pb_main_menu_penci_menu_hv_color);
+}
+.pc-builder-element.pc-main-menu .navigation ul.menu ul a:hover, .pc-builder-element.pc-main-menu .navigation .menu ul ul a:hover {
+	color: var(--penci_header_pb_main_menu_penci_submenu_hv_color);
+}
+.pc-builder-element.navigation.mobile-menu .button-menu-mobile:hover {
+	color: var(--penci_header_pb_mobile_menu_hv_color);
+}
+.pc-builder-element.pc-builder-menu.pc-main-menu .navigation .menu > li > a:hover,
+.pc-builder-element.pc-main-menu .navigation.menu-item-padding .menu > li > a:hover,
+.pc-builder-element.pc-main-menu .navigation.menu-item-padding .menu > li:hover > a,
+.pc-builder-element.pc-main-menu .navigation.menu-item-padding .menu > li.current-menu-item > a,
+.pc-builder-element.pc-main-menu .navigation.menu-item-padding .menu > li.current_page_item > a,
+.pc-builder-element.pc-main-menu .navigation.menu-item-padding .menu > li.current-menu-ancestor > a,
+.pc-builder-element.pc-main-menu .navigation.menu-item-padding .menu > li.current-menu-item > a {
+	background-color: var(--penci_header_pb_main_menu_penci_menu_bg_hv_color);
+}
+/*second menu*/
+.pc-builder-element.pc-second-menu .navigation .menu > li > a:hover {
+	color: var(--penci_header_pb_second_menu_penci_menu_hv_color);
+}
+.pc-builder-element.pc-second-menu .navigation ul.menu ul a:hover, .pc-builder-element.pc-second-menu .navigation .menu ul ul a:hover {
+	color: var(--penci_header_pb_second_menu_penci_submenu_hv_color);
+}
+.pc-builder-element.navigation.mobile-menu .button-menu-mobile:hover {
+	color: var(--penci_header_pb_mobile_menu_hv_color);
+}
+.pc-builder-element.pc-builder-menu.pc-second-menu .navigation .menu > li > a:hover,
+.pc-builder-element.pc-second-menu .navigation.menu-item-padding .menu > li > a:hover,
+.pc-builder-element.pc-second-menu .navigation.menu-item-padding .menu > li:hover > a,
+.pc-builder-element.pc-second-menu .navigation.menu-item-padding .menu > li.current-menu-item > a,
+.pc-builder-element.pc-second-menu .navigation.menu-item-padding .menu > li.current_page_item > a,
+.pc-builder-element.pc-second-menu .navigation.menu-item-padding .menu > li.current-menu-ancestor > a,
+.pc-builder-element.pc-second-menu .navigation.menu-item-padding .menu > li.current-menu-item > a {
+	background-color: var(--penci_header_pb_second_menu_penci_menu_bg_hv_color);
+}
+/*third menu*/
+.pc-builder-element.pc-third-menu .navigation .menu > li > a:hover {
+	color: var(--penci_header_pb_third_menu_penci_menu_hv_color);
+}
+.pc-builder-element.pc-third-menu .navigation ul.menu ul a:hover, .pc-builder-element.pc-third-menu .navigation .menu ul ul a:hover {
+	color: var(--penci_header_pb_third_menu_penci_submenu_hv_color);
+}
+.pc-builder-element.navigation.mobile-menu .button-menu-mobile:hover {
+	color: var(--penci_header_pb_mobile_menu_hv_color);
+}
+.pc-builder-element.pc-builder-menu.pc-third-menu .navigation .menu > li > a:hover,
+.pc-builder-element.pc-third-menu .navigation.menu-item-padding .menu > li > a:hover,
+.pc-builder-element.pc-third-menu .navigation.menu-item-padding .menu > li:hover > a,
+.pc-builder-element.pc-third-menu .navigation.menu-item-padding .menu > li.current-menu-item > a,
+.pc-builder-element.pc-third-menu .navigation.menu-item-padding .menu > li.current_page_item > a,
+.pc-builder-element.pc-third-menu .navigation.menu-item-padding .menu > li.current-menu-ancestor > a,
+.pc-builder-element.pc-third-menu .navigation.menu-item-padding .menu > li.current-menu-item > a {
+	background-color: var(--penci_header_pb_third_menu_penci_menu_bg_hv_color);
+}
+/*social icon hover*/
+.penci-builder-element.pc-search-form.search-style-icon-button .searchsubmit:hover, .penci-builder-element.pc-search-form.search-style-text-button .searchsubmit:hover {
+	background-color: var(--penci_header_pb_search_form_btn_hv_color);
+}
+.penci-builder-element .inner-header-social a:hover i {
+	background-color: var(--penci_header_pb_social_icon_section_bg_hv_color);
+}
+.penci-builder-element .inner-header-social a:hover i {
+	border-color: var(--penci_header_pb_social_icon_section_border_hv_color);
+}
+.penci-builder-element .inner-header-social a:hover,
+.penci-builder-element .inner-header-social a:hover i {
+	background-color: var(--penci_header_pb_social_icon_section_hv_color);
+}
+.pc-builder-element a.penci-menuhbg-toggle:hover .lines-button:after, .pc-builder-element a.penci-menuhbg-toggle.builder:hover .penci-lines:before, .pc-builder-element a.penci-menuhbg-toggle.builder:hover .penci-lines:after {
+	background-color: var(--penci_header_pb_hamburger_menu_hv_color);
+}
+.penci-builder-element.mobile-social .penci-social-textaccent.inner-header-social a:hover {
+	background-color: var(--penci_header_pb_social_icon_mobile_section_bg_hv_color);
+}
+.penci-builder-element.mobile-social .penci-social-textaccent.inner-header-social a:hover {
+	border-color: var(--penci_header_pb_social_icon_mobile_section_border_hv_color)
+}
+.penci-builder-element.mobile-social .penci-social-textaccent.inner-header-social a:hover, .penci-builder-element.mobile-social .penci-social-textaccent.inner-header-social a i {
+	color: var(--penci_header_pb_social_icon_mobile_section_hv_color)
+}
+.pc-builder-menu.pc-dropdown-menu .menu li a:hover, .pc-builder-menu.pc-dropdown-menu .menu > li.current_page_item > a {
+	color: var(--penci_header_pb_dropdown_menu_penci_menu_hv_color);
+}
+.pc-builder-element.pc-builder-menu.pc-main-menu .navigation .penci-megamenu .penci-mega-child-categories a.cat-active,
+.pc-builder-element.pc-builder-menu.pc-main-menu .navigation .menu .penci-megamenu .penci-mega-child-categories a:hover,
+.pc-builder-element.pc-builder-menu.pc-main-menu .navigation .menu .penci-megamenu .penci-mega-latest-posts .penci-mega-post a:hover {
+	color: var(--penci_header_pb_main_menu_penci_mega_accent_color);
+}
+.pc-builder-element.pc-builder-menu.pc-main-menu .navigation .penci-megamenu .penci-mega-thumbnail .mega-cat-name {
+	background-color: var(--penci_header_pb_main_menu_penci_mega_accent_color);
+}
+.pc-builder-element.pc-builder-menu.pc-second-menu .navigation .penci-megamenu .penci-mega-child-categories a.cat-active,
+.pc-builder-element.pc-builder-menu.pc-second-menu .navigation .menu .penci-megamenu .penci-mega-child-categories a:hover,
+.pc-builder-element.pc-builder-menu.pc-second-menu .navigation .menu .penci-megamenu .penci-mega-latest-posts .penci-mega-post a:hover {
+	color: var(--penci_header_pb_second_menu_penci_mega_accent_color);
+}
+.pc-builder-element.pc-builder-menu.pc-second-menu .navigation .penci-megamenu .penci-mega-thumbnail .mega-cat-name {
+	background-color: var(--penci_header_pb_second_menu_penci_mega_accent_color);
+}
+.pc-builder-element.pc-builder-menu.pc-third-menu .navigation .penci-megamenu .penci-mega-child-categories a.cat-active,
+.pc-builder-element.pc-builder-menu.pc-third-menu .navigation .menu .penci-megamenu .penci-mega-child-categories a:hover,
+.pc-builder-element.pc-builder-menu.pc-third-menu .navigation .menu .penci-megamenu .penci-mega-latest-posts .penci-mega-post a:hover {
+	color: var(--penci_header_pb_third_menu_penci_mega_accent_color);
+}
+.pc-builder-element.pc-builder-menu.pc-third-menu .navigation .penci-megamenu .penci-mega-thumbnail .mega-cat-name {
+	background-color: var(--penci_header_pb_third_menu_penci_mega_accent_color);
+}
